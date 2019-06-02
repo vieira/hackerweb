@@ -3,9 +3,9 @@
   "short_name": "HackerWeb",
   "description": "A simply readable Hacker News app.",
   "icons": [{
-    "src": "icons/icon.svg",
-    "sizes": "144x144",
-    "type": "image/svg+xml"
+    "src": "icons/icon.png",
+    "sizes": "128x128",
+    "type": "image/png"
   }],
   "start_url": ".",
   "display": "standalone",
