@@ -102,8 +102,8 @@ i.icon-loading{
 	top: 0;
 	left: 0;
 	right: 0;
-	bottom: -20px;
-	/*overflow: hidden;*/
+	bottom: 0;
+	overflow: hidden;
 	z-index: 2;
 }
 .view.hidden{
